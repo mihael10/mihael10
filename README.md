@@ -1,16 +1,24 @@
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mihael10&show_icons=true&theme=default" alt="Mihael's GitHub stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihael10&layout=compact&theme=default" alt="Most Used Languages" /></td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihael10&theme=default" alt="GitHub Streak" />
-</p>
+# Hi there, I'm Mihael Josifovski 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihael10&color=blue" alt="Profile views" />
-</p>
+## About Me
+- 🔭 I’m currently working on web applications and microservices.
+- 🌱 I’m currently learning everything about Cloud Architecture and Distributed Systems.
+- 👯 I’m looking to collaborate on innovative open source projects.
+- 💬 Ask me about Java, Spring Boot, Quarkus and all things web development.
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mihael10&show_icons=true&theme=vue&border_color=61dafb&include_all_commits=true" alt="Mihael's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihael10&layout=compact&theme=vue&border_color=61dafb" alt="Most Used Languages" /></td>
+  </tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihael10&theme=dark&background=000000)
+
+![Profile views](https://komarev.com/ghpvc/?username=mihael10&color=blueviolet)
+
+</div>
