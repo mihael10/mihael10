@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mihael10&show_icons=true&theme=vue&border_color=61dafb&include_all_commits=true" alt="Mihael's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mihael10&show_icons=true&theme=vue&border_color=61dafb&include_all_commits=true" alt="GitHub stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihael10&layout=compact&theme=vue&border_color=61dafb" alt="Most Used Languages" /></td>
   </tr>
 </table>
