@@ -45,17 +45,6 @@ Ethical hacking & cybersecurity foundations (Noble Work Foundation, Cisco, TryHa
 
 ---
 
-### ✍️ Articles
-
-Some of the things I’ve written:
-
-- [Step-by-Step Guide to Deploying a Full-Stack App or a Website](https://www.linkedin.com/pulse/step-by-step-guide-deploying-full-stack-app-website-mihael-josifovski-gmxjf)
-- [Automated Maven Project Dependency Management Script](https://www.linkedin.com/pulse/automated-maven-project-dependency-management-script-josifovski-pyd3f)
-- [Architecture Matters: Making the Right Choice between Microservices and Monolithic](https://www.linkedin.com/pulse/architecture-matters-making-right-choice-between-mihael-josifovski)
-- [Unlocking the Benefits of IT Outsourcing: Why North Macedonia Should Be Your Next Destination](https://www.linkedin.com/pulse/unlocking-benefits-outsourcing-why-north-macedonia-your-josifovski)
-
----
-
 ### 📊 GitHub overview
 
 <p align="center">
