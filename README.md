@@ -81,14 +81,6 @@ Some of the things I’ve written:
 
 ---
 
-### 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0f8e18c89e7cf795289bda3a9697a0f8935551f0ece34fadbc4b3db79a38a9f4/68747470733a2f2f7472796861636b6d652d6261646765732e73332e616d617a6f6e6177732e636f6d2f6d696b6931302e706e67" alt="TryHackMe badge miki10" />
-</p>
-
----
-
 ### 🤝 Contact
 
 - **Email:** `mihael.josifovski@outlook.com`  
